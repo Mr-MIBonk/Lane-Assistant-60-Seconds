@@ -1,6 +1,6 @@
 ## NOT FOR COMMERCIAL USE - IF YOU BOUGHT THIS YOU GOT RIPPED OFF!
 
-# This parameters extends the VAG Lane Assistant from 3Q098065x Frontcamera to 60 seconds until the first warning 😎
+This parameters extends the VAG Lane Assistant from 3Q098065x Frontcamera to 60 seconds until the first warning 😎
 
 [![IMAGE 60 Seconds Lane Assistant](https://img.youtube.com/vi/BGT-522Oh0Y/0.jpg)](https://www.youtube.com/watch?v=BGT-522Oh0Y)
 
