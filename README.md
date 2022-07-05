@@ -12,4 +12,4 @@ All of your own risk, stay healthy and always drive according to the leagal road
 
 You can flash this parameter files easy with ODIS-E or check your VCP Account in Filemanager!
 
-All other bastards who stollen an d selling this should be fucked 🖕
+#All other bastards who stolen and selling this should be fucked 🖕
