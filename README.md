@@ -9,7 +9,7 @@ But this means that a vital function, the Emergency Assistant, will be pushed fu
 Do not support such sloppy and dangerous manipulations! Fuck all this copy/paste moneymakers who stole the work and don't pay for it!
 
 Everything publicly based on my work which was simply copied and stolen! 
-None of the bastards found the actual bytes in the dataset before me!
+None of sons of bitches found the actual bytes in the dataset before me!
 
 All of your own risk, stay healthy and always drive according to the leagal road traffic regulations!
 
