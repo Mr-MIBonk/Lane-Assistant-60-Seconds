@@ -17,16 +17,21 @@ You can flash this parameter files easy with ODIS-E or check your VCP Account in
 
 Compatibilty matrix from dataset index with software versions:
 
-HW 3Q098065653:
+# HW 3Q098065653:
+
 121 = E
+
 171 = F
 
-HW 3Q098065654 (Made in Germany):
+# HW 3Q098065654 (Made in Germany):
+
 272 = H
+
 610 / 611 = L
 
-HW 3QD980654 (Made in China):
+#HW 3QD980654 (Made in China):
 1272 = H
+
 1611 = L
 
 # All bastards who stolen and selling this should be fucked🖕
