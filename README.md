@@ -19,18 +19,20 @@ Compatibilty matrix from dataset index with software/hardware versions:
 
 HW 3Q0980653:
 
-171 = F
+171 = Index F
 
 HW 3Q0980654 (Made in Germany):
 
-272 = H
+272 = Index H
 
-610 / 611 = L
+610 / 611 = Index L
 
 HW 3QD980654 (Made in China):
 
-1272 = H
+1272 = Index H
 
-1611 = L
+1611 = Index L
+
+Note: 3Q0980654 and 3QD980654 have different hardware with different firmware but the datasets are identical in the corresponding index vesions!
 
 # All bastards who stolen and selling this should be fucked🖕
