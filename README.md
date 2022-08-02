@@ -17,13 +17,13 @@ You can flash this parameter files easy with ODIS-E or check your VCP Account in
 
 Compatibilty matrix from dataset index with software/hardware versions:
 
-HW 3Q098065653:
+HW 3Q0980653:
 
 121 = E
 
 171 = F
 
-HW 3Q098065654 (Made in Germany):
+HW 3Q0980654 (Made in Germany):
 
 272 = H
 
