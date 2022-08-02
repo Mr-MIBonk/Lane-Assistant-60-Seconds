@@ -19,8 +19,6 @@ Compatibilty matrix from dataset index with software/hardware versions:
 
 HW 3Q0980653:
 
-121 = E
-
 171 = F
 
 HW 3Q0980654 (Made in Germany):
