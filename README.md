@@ -33,6 +33,6 @@ HW 3QD980654 (Made in China):
 
 1611 = Index L
 
-Note: 3Q0980654 and 3QD980654 have different hardware with different firmware but the datasets are identical in the corresponding index vesions!
+Note: 3Q0980654 and 3QD980654 is different hardware and firmware, but the datasets are identical in the corresponding index vesions!
 
 # All bastards who stolen and selling this should be fucked🖕
