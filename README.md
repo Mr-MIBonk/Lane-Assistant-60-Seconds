@@ -15,7 +15,7 @@ All of your own risk, stay healthy and always drive according to the leagal road
 
 You can flash this parameter files easy with ODIS-E or check your VCP Account in Filemanager!
 
-Compatibilty matrix from dataset index with software versions:
+Compatibilty matrix from dataset index with software/hardware versions:
 
 HW 3Q098065653:
 
